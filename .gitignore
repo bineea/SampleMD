@@ -30,5 +30,7 @@ target/
 
 # 2019-03-01
 # all files in the .idea directory£¨ideaÅäÖÃÎÄ¼ş£©
-.idea/
+.idea
+*.iws
 *.iml
+*.ipr
